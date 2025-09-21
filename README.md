@@ -71,3 +71,8 @@ Este projeto não possui foco em segurança ou performance em ambiente de produ�
 
 > Todo o código está comentado com explicações passo a passo para facilitar o aprendizado de quem está estudando FastAPI e APIs REST.
 > Sinta-se à vontade para clonar, modificar, e usar como base para seus próprios estudos.
+
+## REFERÊNCIAS
+>https://www.youtube.com/@HashtagProgramacao
+>https://chatgpt.com/
+>https://www.youtube.com/watch?v=2MmmjUv_tRc&pp=ygUNZmFzdCBhcGkgcmVzdA%3D%3D
