@@ -73,6 +73,6 @@ Este projeto não possui foco em segurança ou performance em ambiente de produ�
 > Sinta-se à vontade para clonar, modificar, e usar como base para seus próprios estudos.
 
 ## REFERÊNCIAS
-*https://www.youtube.com/@HashtagProgramacao
-*https://chatgpt.com/
-*https://www.youtube.com/watch?v=2MmmjUv_tRc&pp=ygUNZmFzdCBhcGkgcmVzdA%3D%3D
+- https://www.youtube.com/@HashtagProgramacao
+- https://chatgpt.com/
+- https://www.youtube.com/watch?v=2MmmjUv_tRc&pp=ygUNZmFzdCBhcGkgcmVzdA%3D%3D
